@@ -16,7 +16,7 @@ class ContactFormPlugin extends BasePlugin
 	 */
 	public function getVersion()
 	{
-		return '1.0';
+		return '1.8.1';
 	}
 
 	public function getSchemaVersion()
@@ -45,7 +45,7 @@ class ContactFormPlugin extends BasePlugin
 	 */
 	public function getPluginUrl()
 	{
-		return 'https://github.com/knynkwl/CraftContactForm';
+		return 'https://github.com/pixelandtonic/ContactForm';
 	}
 
 	/**
@@ -61,7 +61,7 @@ class ContactFormPlugin extends BasePlugin
 	 */
 	public function getReleaseFeedUrl()
 	{
-		return 'https://raw.githubusercontent.com/knynkwl/CraftContactForm/master/releases.json';
+		return 'https://raw.githubusercontent.com/pixelandtonic/ContactForm/master/releases.json';
 	}
 
 	/**
