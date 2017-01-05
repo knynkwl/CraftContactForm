@@ -45,7 +45,7 @@ class ContactFormPlugin extends BasePlugin
 	 */
 	public function getPluginUrl()
 	{
-		return 'https://github.com/pixelandtonic/ContactForm';
+		return 'https://github.com/knynkwl/CraftContactForm';
 	}
 
 	/**
@@ -61,7 +61,7 @@ class ContactFormPlugin extends BasePlugin
 	 */
 	public function getReleaseFeedUrl()
 	{
-		return 'https://raw.githubusercontent.com/pixelandtonic/ContactForm/master/releases.json';
+		return 'https://raw.githubusercontent.com/knynkwl/CraftContactForm/master/releases.json';
 	}
 
 	/**
